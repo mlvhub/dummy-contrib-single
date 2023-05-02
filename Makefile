@@ -1,3 +1,4 @@
 .PHONY: test
 test:
-	go test -v ./... -count=1
+	make -C ./contrib/logger test
+	make -C ./contrib/printer test
