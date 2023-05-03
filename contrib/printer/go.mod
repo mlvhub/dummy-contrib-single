@@ -1,4 +1,4 @@
-module github.com/mlvhub/dummy-contrib/contrib/printer
+module github.com/mlvhub/dummy-contrib-single/contrib/printer
 
 go 1.18
 

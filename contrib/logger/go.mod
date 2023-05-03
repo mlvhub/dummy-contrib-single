@@ -1,4 +1,4 @@
-module github.com/mlvhub/dummy-contrib/contrib/logger
+module github.com/mlvhub/dummy-contrib-single/contrib/logger
 
 go 1.18
 
